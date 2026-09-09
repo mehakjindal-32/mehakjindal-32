@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".README.MD alt="Mehak Jindal Banner" width="100%" />
+<img src="./assets/banner.png" alt="Mehak Jindal Banner" width="100%" />
 
 # Hi, I'm Mehak Jindal 👋
 
